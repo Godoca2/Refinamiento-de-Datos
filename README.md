@@ -1,7 +1,5 @@
 # Refinamiento-de-Datos
 
-# Refinamiento-de-Datos
-
 Este repositorio contiene scripts y herramientas para el refinamiento de datos, orientado a la limpieza, transformación y preparación de datos para su posterior análisis y visualización. El objetivo principal es proporcionar una serie de procesos automatizados que mejoren la calidad de los datos y faciliten su uso en proyectos de análisis y ciencia de datos.
 
 ## Contenido del Repositorio
